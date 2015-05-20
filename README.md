@@ -12,3 +12,5 @@ windowsで直前のファイルをもう一度開きます。
 
 プロジェクトとしてはwpfです。フォームを使わずコードだけで完結するサンプルでもあります。
 ビルドはvisual studio 2013です
+
+本ソフトに関するブログ https://fushihara.org/blog/archives/1938
